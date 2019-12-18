@@ -1,0 +1,24 @@
+PODS:
+  - iOSDFULibrary (4.6.1):
+    - ZIPFoundation (= 0.9.9)
+  - Zip (1.1.0)
+  - ZIPFoundation (0.9.9)
+
+DEPENDENCIES:
+  - iOSDFULibrary
+  - Zip
+
+SPEC REPOS:
+  trunk:
+    - iOSDFULibrary
+    - Zip
+    - ZIPFoundation
+
+SPEC CHECKSUMS:
+  iOSDFULibrary: 3053cf01eaabec37dc7372fb77ae4a218b577c55
+  Zip: 8877eede3dda76bcac281225c20e71c25270774c
+  ZIPFoundation: 89df685c971926b0323087952320bdfee9f0b6ef
+
+PODFILE CHECKSUM: 35db951ddcc035ab857088fa42f6b9490b8b9c6e
+
+COCOAPODS: 1.8.1

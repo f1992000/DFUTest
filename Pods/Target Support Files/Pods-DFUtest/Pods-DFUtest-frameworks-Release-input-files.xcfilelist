@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-DFUtest/Pods-DFUtest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ZIPFoundation/ZIPFoundation.framework
+${BUILT_PRODUCTS_DIR}/Zip/Zip.framework
+${BUILT_PRODUCTS_DIR}/iOSDFULibrary/iOSDFULibrary.framework
